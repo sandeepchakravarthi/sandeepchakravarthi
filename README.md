@@ -14,9 +14,9 @@ Production-grade RAG system for intelligent document Q&A. Upload documents, get 
 AI-powered invoice processing platform automating data extraction, validation, fraud detection, and approval workflows using a 5-agent intelligent pipeline.
 **Tech Stack**: Python (FastAPI), React, PostgreSQL, LLM (Qwen), PaddleOCR, Docker
 
-### 3. MyFirstProject
-Foundational learning project marking the beginning of professional development. Covers Git workflows, repository structure, and collaborative development fundamentals.
-**Tech Stack**: Git, Version Control, Open Source Practices
+### 3. Smart Research Agent
+Production-grade agentic AI system with autonomous tool selection. Web search, PDF reading, document summarization, and calculations using LangGraph orchestration with voice interface (STT/TTS).
+**Tech Stack**: Python, FastAPI, LangGraph, LangChain, Ollama, SearXNG, Docker
 
 ---
 
